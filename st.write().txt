@@ -1,0 +1,6 @@
+st.markdown("### 💡 Suggestions:")
+if tips:
+    for tip in tips:
+        st.write(tip)
+else:
+    st.success("✅ No prominent stress concentrators found.")

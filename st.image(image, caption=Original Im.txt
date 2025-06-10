@@ -1,0 +1,1 @@
+st.image(image, caption="Original Image", use_column_width=True)

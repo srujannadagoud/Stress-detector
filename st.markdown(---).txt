@@ -1,0 +1,2 @@
+st.markdown("---")
+st.markdown("Made with ❤️ using Streamlit | Developed by [Your Name](https://github.com/yourusername)")
